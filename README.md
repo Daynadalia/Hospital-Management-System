@@ -1,3 +1,3 @@
-# HMS project
- 
-hospital management system is an web based project.
+Hospital Management System
+
+This is a web-based project for a hospital management system.
